@@ -1,0 +1,147 @@
+.tituloCalculadora{
+	height: 100%;
+	color:white;
+	text-shadow: 2px 2px black;
+}
+h1{
+	text-align: center;
+}
+form {
+	height: 100%;
+	right: 100%;
+}
+.formEnvioIp {
+	margin:1px solid 000;
+	text-align: center;
+	color:white;
+}
+
+.formEnvioIp div{
+	font-family: sans-serif;
+	margin:1%;
+}
+.botaoEnvio{
+	border-radius: 2%;
+	font-family:  Arial, Helvetica, sans-serif;
+	padding: 0.4% 0.8%;
+	background-color: white;
+}
+nav{
+	text-shadow: 1px 1px black;
+	background-color: green;
+	font-family: sans-serif;
+	border-radius: 15px;
+	padding: 2%;
+}
+.paginaInfos{
+	width: 90%;
+	margin: 2% 6% 0%;
+	border:2px solid green;
+	border-radius: 15px;
+	display: table;
+}
+
+.dadosIp h1{
+	text-align: center;
+	font-family: sans-serif;
+	color:green;
+	text-shadow: 1px 1px black;
+}
+.item1{
+	width: 20%;
+
+	float:left;
+	margin:2% 0% 2%;
+	margin-left:1.5%;
+	text-align: left;
+}
+.item2{
+	width: 75%;
+	
+	float:left;
+	margin:2% 0% 2%;
+	margin-left:2%;
+	text-align: center;
+	display: table;
+
+}
+.paragrafo{
+	font-family: Georgia;
+	font-size: 120%;
+	color:black;
+	color: green;
+	text-shadow: 0.5px 0px black;
+}
+.span{
+	color: red;
+	text-shadow: 0.5px 0px black;
+}
+.paragrafoIp{
+	font-family: Georgia;
+	font-size: 150%;
+	color:black;
+	color: green;
+	text-shadow: 0.5px 0px black;
+	text-decoration: underline green;
+
+}
+.paragrafoSubRede{
+	font-family: verdana;
+	font-size: 80%;
+	color:black;
+	color: green;
+}
+.spanSubRede{
+	font-size:90%; 
+	color: black;
+}
+.subRede{
+	float:left;
+	border:2px solid green;
+	border-radius: 15px;
+	width: 22%;
+	height: 15%;
+	margin:0.5%;
+	text-align: left;
+	padding: 0.5%;
+}
+.subRedeIp{
+	float:left;
+	border:2px solid green;
+	border-radius: 15px;
+	width: 22%;
+	height: 15%;
+	margin:0.5%;
+	text-align: left;
+	padding: 0.5%;
+	color:white;
+	background-color:green;
+}
+.subRedeIp .spanSubRede{
+	font-size:90%; 
+	color: white;
+}
+.subRedeIp .paragrafoSubRede{
+	font-family: verdana;
+	font-size: 80%;
+	color:black;
+}
+.subRedeIp .paragrafo{
+	font-family: Georgia;
+	font-size: 120%;
+	color:black;
+	color: white;
+	text-shadow: 0.5px 0px black;
+}
+.desenvolvedores{
+	color :white;
+}
+.paragrafoContido{
+	font-family: Georgia;
+	font-size: 90%;
+	color:black;
+	color: red;
+	text-shadow: 0.5px 0px black;
+	text-decoration: underline green;
+
+}
